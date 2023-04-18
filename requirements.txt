@@ -1,5 +1,5 @@
 aiofiles
-aiohttp
+aiohttp==3.7.4
 asyncio
 dnspython
 ffmpeg-python
@@ -27,3 +27,4 @@ youtube-search-python
 search_engine_parser
 ffmpeg
 ujson
+git+https://github.com/yt-dlp/yt-dlp.git
