@@ -1,7 +1,7 @@
 {
   "name": "𝗚𝗿𝗼𝗼𝘁 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁",
-  "logo": "https://te.legra.ph/file/cbaf52ad98bdd1012dc45.jpg",
-  "description": "🥀 No Lag voice chat Groot Music Player😎",
+  "logo": "https://graph.org/file/ae44ceeed0e39f91e81f8.jpg",
+  "description": "🥀A Bot For Playing High Quality and Unbreakable Music in Your Groups Voice Chat",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/9505GrootXD/GMBXD2",
   "stack": "container",
@@ -17,7 +17,7 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": ""
+      "value": "Leeyoo_Robot"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
@@ -29,7 +29,8 @@
     },
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
-      "required": true
+      "required": true,
+      "value": "6285755686"
     },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
