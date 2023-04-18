@@ -1,9 +1,9 @@
 {
-  "name": "𝗚-𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗠𝘂𝘀𝗶𝗰𝗕𝗼𝘁",
+  "name": "𝗚𝗿𝗼𝗼𝘁 𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁",
   "logo": "https://te.legra.ph/file/cbaf52ad98bdd1012dc45.jpg",
   "description": "🥀 No Lag voice chat Groot Music Player😎",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/GMN630/GrootMusicOfficial",
+  "repository": "https://github.com/9505GrootXD/GMBXD2",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
