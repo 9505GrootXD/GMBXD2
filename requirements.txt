@@ -1,6 +1,6 @@
 git+https://github.com/yt-dlp/yt-dlp@master
 pyrogram==1.4.12
-py-tgcalls==0.8.1
+py-tgcalls==0.9.1
 tgcrypto
 python-dotenv
 git+https://github.com/alexmercerind/youtube-search-python@main
