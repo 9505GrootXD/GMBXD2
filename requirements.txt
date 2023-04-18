@@ -17,3 +17,4 @@ Pillow
 ujson
 youtube-search-python
 git+https://github.com/ytdl-patched/yt-dlp
+yt-dlp 2023.3.4
